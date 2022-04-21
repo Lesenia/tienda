@@ -284,7 +284,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: #cda45e;
+  color: #3cd2da;
 }
 
 .nav-menu .drop-down > a:after {
@@ -431,7 +431,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .mobile-nav .book-a-table a:hover {
   background: #2fc7e9;
-  color: #fff;
+  color: rgb(39, 204, 223);
 }
 
 .mobile-nav .drop-down > a {
@@ -593,7 +593,7 @@ h1, h2, h3, h4, h5, h6 {
   animation-timing-function: steps;
   opacity: 1;
   border-radius: 50%;
-  border: 5px solid rgba(205, 164, 94, 0.7);
+  border: 5px solid rgba(62, 216, 240, 0.7);
   top: -15%;
   left: -15%;
   background: rgba(198, 16, 0, 0);
@@ -1148,7 +1148,7 @@ section {
 .events .event-item ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #cda45e;
+  color: #32c6ef;
 }
 
 .events .event-item p:last-child {
@@ -1249,23 +1249,23 @@ section {
 }
 
 .book-a-table .php-email-form input::-webkit-input-placeholder, .book-a-table .php-email-form textarea::-webkit-input-placeholder {
-  color: #a49b89;
+  color: #34cfe3;
 }
 
 .book-a-table .php-email-form input::-moz-placeholder, .book-a-table .php-email-form textarea::-moz-placeholder {
-  color: #a49b89;
+  color: #4fbfef;
 }
 
 .book-a-table .php-email-form input:-ms-input-placeholder, .book-a-table .php-email-form textarea:-ms-input-placeholder {
-  color: #a49b89;
+  color: #31d1e7;
 }
 
 .book-a-table .php-email-form input::-ms-input-placeholder, .book-a-table .php-email-form textarea::-ms-input-placeholder {
-  color: #a49b89;
+  color: #32c0e0;
 }
 
 .book-a-table .php-email-form input::placeholder, .book-a-table .php-email-form textarea::placeholder {
-  color: #a49b89;
+  color: #49c6f8;
 }
 
 .book-a-table .php-email-form input:focus, .book-a-table .php-email-form textarea:focus {
@@ -1381,8 +1381,8 @@ section {
 --------------------------------------------------------------*/
 .gallery .gallery-item {
   overflow: hidden;
-  border-right: 3px solid #454035;
-  border-bottom: 3px solid #454035;
+  border-right: 3px solid #4dd3e4;
+  border-bottom: 3px solid #2fb8ce;
 }
 
 .gallery .gallery-item img {
@@ -1399,7 +1399,7 @@ section {
 .chefs .member {
   text-align: center;
   margin-bottom: 20px;
-  background: #343a40;
+  background: #80b8ef;
   position: relative;
   overflow: hidden;
 }
@@ -1510,7 +1510,7 @@ section {
   padding: 0 0 0 60px;
   margin-bottom: 0;
   font-size: 14px;
-  color: #bab3a6;
+  color: #34bbcd;
 }
 
 .contact .info .open-hours, .contact .info .email, .contact .info .phone {
@@ -1575,28 +1575,28 @@ section {
   box-shadow: none;
   font-size: 14px;
   background: #0c0b09;
-  border-color: #625b4b;
+  border-color: #32c3e7;
   color: white;
 }
 
 .contact .php-email-form input::-webkit-input-placeholder, .contact .php-email-form textarea::-webkit-input-placeholder {
-  color: #a49b89;
+  color: #27b5e0;
 }
 
 .contact .php-email-form input::-moz-placeholder, .contact .php-email-form textarea::-moz-placeholder {
-  color: #a49b89;
+  color: #2dbedb;
 }
 
 .contact .php-email-form input:-ms-input-placeholder, .contact .php-email-form textarea:-ms-input-placeholder {
-  color: #a49b89;
+  color: #31c3f0;
 }
 
 .contact .php-email-form input::-ms-input-placeholder, .contact .php-email-form textarea::-ms-input-placeholder {
-  color: #a49b89;
+  color: #4ebaf0;
 }
 
 .contact .php-email-form input::placeholder, .contact .php-email-form textarea::placeholder {
-  color: #a49b89;
+  color: #2cc3f0;
 }
 
 .contact .php-email-form input:focus, .contact .php-email-form textarea:focus {
