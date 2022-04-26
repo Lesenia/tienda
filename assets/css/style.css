@@ -176,7 +176,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #header.header-scrolled {
   top: 0;
-  background: rgba(227, 233, 233, 0.85);
+  background: rgba(77, 234, 234, 0.85);
   border-bottom: 1px solid #eaf0ef;
 }
 
@@ -246,7 +246,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .book-a-table a:hover {
-  background: #e6e4f1;
+  background: #70e5eb;
   color: rgb(20, 20, 211);
 }
 
